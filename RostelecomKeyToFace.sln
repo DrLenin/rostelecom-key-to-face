@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RostelecomKeyToFace", "RostelecomKeyToFace\RostelecomKeyToFace.csproj", "{E111E5AD-791F-4A3F-AC25-9444CA490309}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Common", "Common\Common.csproj", "{43A88CBC-3A4E-4465-96B3-6532915E335E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Models", "Models\Models.csproj", "{FB3ACA19-E599-4814-B3F6-979B79FB6066}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E111E5AD-791F-4A3F-AC25-9444CA490309}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E111E5AD-791F-4A3F-AC25-9444CA490309}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E111E5AD-791F-4A3F-AC25-9444CA490309}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E111E5AD-791F-4A3F-AC25-9444CA490309}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43A88CBC-3A4E-4465-96B3-6532915E335E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43A88CBC-3A4E-4465-96B3-6532915E335E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43A88CBC-3A4E-4465-96B3-6532915E335E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43A88CBC-3A4E-4465-96B3-6532915E335E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB3ACA19-E599-4814-B3F6-979B79FB6066}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB3ACA19-E599-4814-B3F6-979B79FB6066}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB3ACA19-E599-4814-B3F6-979B79FB6066}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB3ACA19-E599-4814-B3F6-979B79FB6066}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

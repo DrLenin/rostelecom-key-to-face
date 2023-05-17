@@ -1,0 +1,15 @@
+﻿global using System.Drawing;
+global using OpenQA.Selenium;
+global using OpenQA.Selenium.Chrome;
+global using Emgu.CV;
+global using Emgu.CV.Structure;
+global using Emgu.CV.CvEnum;
+global using Emgu.CV.Face;
+global using Emgu.CV.Util;
+global using Models;
+global using Telegram.Bot;
+global using Telegram.Bot.Polling;
+global using Telegram.Bot.Types;
+global using Telegram.Bot.Types.ReplyMarkups;
+global using Common.Services;
+global using Models.Data;
