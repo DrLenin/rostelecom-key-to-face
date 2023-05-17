@@ -41,7 +41,7 @@ async Task HandleUpdateAsync(ITelegramBotClient botClient, Update update, Cancel
             fileInfo.MoveTo(facePhotosToPath + path[1]);
 
             await using (var writer = new StreamWriter(facesToTextFile, true))
-                await writer.WriteLineAsync("\n" + path[1][..^4]);
+                await writer.WriteAsync("\n" + path[1][..^4]);
 
             detection.UpdatePhoto();
         }

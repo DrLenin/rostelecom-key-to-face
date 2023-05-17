@@ -95,24 +95,6 @@
       <None Update="Source\FacesToDontAccess\face2.bmp">
         <CopyToOutputDirectory>Always</CopyToOutputDirectory>
       </None>
-      <None Update="Source\FacesToDontAccess\face4.bmp">
-        <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-      </None>
-      <None Update="Source\FacesToDontAccess\face5.bmp">
-        <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-      </None>
-      <None Update="Source\FacesToDontAccess\face6.bmp">
-        <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-      </None>
-      <None Update="Source\FacesToDontAccess\face7.bmp">
-        <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-      </None>
-      <None Update="Source\FacesToDontAccess\face8.bmp">
-        <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-      </None>
-      <None Update="Source\FacesToDontAccess\face9.bmp">
-        <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-      </None>
       <None Update="Source\FacesToAccess.txt">
         <CopyToOutputDirectory>Always</CopyToOutputDirectory>
       </None>
